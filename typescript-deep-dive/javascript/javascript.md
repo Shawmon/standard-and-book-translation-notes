@@ -1,7 +1,7 @@
 [已校对]
 # JavaScript
 
-过去（还会继续）JavaScript 的一些语法有很多的争议。TypeScript 和他们不一样，因为你的 JavaScript 是 TypeScript。这是一张图：
+过去（还会继续）有很多将某种语法编译成 JavaScript 的编译器，TypeScript 和他们不一样，因为你的 JavaScript 是 TypeScript。这是一张图：
 
 ![JavaScript is TypeScript](https://raw.githubusercontent.com/basarat/typescript-book/master/images/venn.png)
 
